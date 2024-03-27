@@ -24,3 +24,7 @@ Conclusion:
 - Our Skin Disease Detection System addresses the critical need for early and accessible detection of skin diseases.
 - Leveraging transfer learning (InceptionV3) and data augmentation techniques, our solution achieved a significant improvement in accuracy from 32% to 89.6%.
 - With continuous refinement and innovation, our project aims to make a positive impact on dermatological care worldwide, improving health outcomes and quality of life for individuals.
+
+
+Used dataset from:
+https://www.kaggle.com/datasets/riyaelizashaju/skin-disease-classification-image-dataset
